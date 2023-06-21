@@ -2,6 +2,9 @@
 Programa en el cual se ve un personaje caminando, de izquierda y a derecha, en
 bucle. Cuando llega a los bordes de la pantalla, da la vuelta.
 
+# Modo de ejecución
+
+## Ejecutar en terminal <span style="color: red;">python3 main.py</span>.
 # Características
 
 ## Aplicación basada en uso de pygame como motor gráfico.
