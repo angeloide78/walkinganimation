@@ -38,8 +38,6 @@ class Animacion:
         pygame.mixer.init()
         
         # Carga del archivo de sonido
-        a =  os.path.join(*SONIDO_GOLPE)
-        
         self.__sonido_golpe = pygame.mixer.Sound(os.path.join(*SONIDO_GOLPE))
         self.__sonido_yeah = pygame.mixer.Sound(os.path.join(*SONIDO_YEAH)) 
         
