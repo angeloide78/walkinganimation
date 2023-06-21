@@ -24,5 +24,5 @@ bucle. Cuando llega a los bordes de la pantalla, da la vuelta.
 
 ### Capturas de la aplicación
 
-![Joven caminando](walkinganimation/assets/imagenes/captura_juego.png)
+![Joven caminando](walkinganimation/assets/imagen/captura_juego.png)
 
